@@ -1,0 +1,4 @@
+Array contents before sorting:
+7.7 5.5 11.0 3.0 16.0 4.4 20.0 14.0 13.0 42.0 
+Sorted array values:
+3.0 4.4 5.5 7.7 11.0 13.0 14.0 16.0 20.0 42.0 
